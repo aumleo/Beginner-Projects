@@ -1,4 +1,5 @@
-Beginner Python Projects Repository
+Beginner Python Projects Repository:
+
 Welcome to my repository of beginner-level Python projects! This collection showcases my proficiency in Python fundamentals and Object-Oriented Programming (OOP) concepts. The projects in this repository are designed to be approachable for those just starting their Python journey, while still providing opportunities to practice essential programming skills.
 
 Project List
